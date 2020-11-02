@@ -1,6 +1,7 @@
 * Please refrain from adding solutions of challenges before the daily contest ends.
 * Steps to contribute
 * fork this repo and clone the forked repo into your local machine
+`git clone https://github.com/your_user_name/November-Leetcoding-Challenge/`
 * Add upstream to stay updated with the source repo main branch
 
 `git remote add upstream link to source repo`
@@ -19,3 +20,8 @@
 ` git commit -m "leetcode question no and language you are using" ` 
 
 `git push origin branch_name `
+
+> Important
+
+* Add resources if any in the readme file of each day and make sure you tested the solution and got accepted before contributing.
+* Star this repo for future reference
